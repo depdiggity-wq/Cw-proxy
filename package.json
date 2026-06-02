@@ -1,0 +1,12 @@
+{
+  "name": "cw-proxy",
+  "version": "1.0.0",
+  "description": "ConnectWise Manage CORS Proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
